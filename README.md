@@ -58,21 +58,10 @@ Using Python scrapers over the Tor network, with support for manual CAPTCHA-solv
 | Hidden Market | No CAPTCHA, full scraping       | `.onion`    | Drugs, Digital, Tutorials     |
 | MGM Grand     | CAPTCHA-protected, solved manually | `.onion` | Clean 5.8K records after filtering |
 
-A separate dataset of **5,000 Alphanumeric CAPTCHAs** is also [hosted on Kaggle](https://www.kaggle.com/) for training CAPTCHA-solving models.
+A separate dataset of **5,000 Alphanumeric CAPTCHAs** is also [hosted on Kaggle](https://kaggle.com/datasets/a41e9c53e1189b91c7afb507f2335b6c148d46822729fe8f0cebbde39070958e) for training CAPTCHA-solving models.
 
 ---
 
-## 📈 Model Results
-
-### Classification (Drugs)
-- **DarkBERT** achieved the highest accuracy and F1-score across all categories.
-
-### Sentiment Analysis (Pharmaceutical Reviews)
-- **DistilRoBERTa** outperformed DistilBERT and DistilGPT-2 in sentiment classification (Positive, Neutral, Negative).
-
-See detailed evaluation results and graphs in the `notebooks/` and `results/` folders.
-
----
 
 ## 🔐 Ethical Use
 
@@ -90,10 +79,7 @@ Developed by:
 - Adham Tarek Abdelaziz
 - Abdelhamid Mahmoud Ahmed
 
-Graduation Project – 2025  
-**Cairo University**
-– Faculty of Computers and Artificial Intelligence
-- AI Departement
+Graduation Project 2025 **Cairo University Faculty of Computers and Artificial Intelligence- AI Departement**
 
 ---
 
