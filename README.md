@@ -3,6 +3,25 @@
 NeoSilk is an **AI-powered framework** designed to collect, analyze, and visualize darknet marketplace data for cybersecurity threat intelligence. It combines automated web scraping, advanced NLP modeling, and interactive dashboards to uncover patterns and monitor illegal activity across `.onion` sites on the dark web.
 
 ---
+## 🎯 Project Aim
+
+NeoSilk aims to provide a modular and intelligent framework for dark web threat intelligence. By combining advanced scraping, natural language processing (NLP), and interactive dashboards, the system enables cybersecurity analysts to:
+
+- Detect and monitor illicit activities (e.g., drugs, fraud, digital contraband)
+
+- Extract meaningful insights from hidden marketplaces
+
+- Transform unstructured darknet content into actionable intelligence
+
+- Support early warning systems for emerging threats
+
+- This project bridges the gap between the dark web’s anonymity and the visibility needed for proactive cyber defense.
+
+
+
+
+
+---
 
 ## 🚀 Project Overview
 
