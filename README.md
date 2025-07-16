@@ -1,5 +1,20 @@
 # 🕵️‍♂️ NeoSilk: AI-Enhanced Dark Web Threat Intelligence Framework
 
+## 🕸️ Introduction
+The dark web is a hidden segment of the internet accessible only through specialized software like Tor. It hosts thousands of anonymous marketplaces and forums that facilitate a wide range of illicit activities, including:
+
+- Drug trafficking
+
+- Stolen data trade
+
+- Hacking services
+
+- Counterfeit goods
+
+- Cybercrime-as-a-service offerings
+
+Unlike the surface web, the dark web is highly unstructured, constantly changing, and protected by layers of anonymity and anti-crawling defenses such as CAPTCHAs and session controls. These characteristics make it incredibly challenging for cybersecurity professionals and researchers to track threats or extract intelligence in a reliable and scalable manner.
+
 NeoSilk is an **AI-powered framework** designed to collect, analyze, and visualize darknet marketplace data for cybersecurity threat intelligence. It combines automated web scraping, advanced NLP modeling, and interactive dashboards to uncover patterns and monitor illegal activity across `.onion` sites on the dark web.
 
 ---
@@ -79,7 +94,7 @@ Developed by:
 - Adham Tarek Abdelaziz
 - Abdelhamid Mahmoud Ahmed
 
-Graduation Project 2025 **Cairo University Faculty of Computers and Artificial Intelligence- AI Departement**
+**Cairo University Faculty of Computers and Artificial Intelligence - AI Departement-Graduation Project 2025**
 
 ---
 
