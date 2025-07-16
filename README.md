@@ -13,8 +13,6 @@ Traditional cybersecurity tools often fail to monitor the highly unstructured an
 - Sentiment analysis of user reviews on products
 - Real-time data visualization for analysts and researchers
 
-This project was developed as part of our **Graduation Project 2025** at **Cairo University, Faculty of Computers and Artificial Intelligence**.
-
 ---
 
 ## 🔍 Features
@@ -65,7 +63,7 @@ See detailed evaluation results and graphs in the `notebooks/` and `results/` fo
 
 ## 🔐 Ethical Use
 
-This project was developed **solely for educational and cybersecurity research purposes**. All data scraping was conducted with careful supervision by our academic advisors and follows ethical guidelines. This tool is not intended for malicious use.
+This project was developed **for educational and cybersecurity research purposes**. All data scraping was conducted with careful supervision by our academic advisors and follows ethical guidelines. This tool is not intended for malicious use.
 
 ---
 
@@ -73,11 +71,16 @@ This project was developed **solely for educational and cybersecurity research p
 
 Developed by:
 
-- Mostafa Aly
-- [Add teammates here]
+- Mostafa Aly Hashem
+- Nour El-Dien Mostafa Mohammed
+- Mohammed Hassanien Sayed
+- Adham Tarek Abdelaziz
+- Abdelhamid Mahmoud Ahmed
 
 Graduation Project – 2025  
-**Cairo University** – Faculty of Computers and Artificial Intelligence
+**Cairo University**
+– Faculty of Computers and Artificial Intelligence
+- AI Departement
 
 ---
 
@@ -88,10 +91,4 @@ Graduation Project – 2025
 - 👨‍💻 **Full Repository**: [NeoSilk GitHub Repo](https://github.com/mostafa-aly-sayed/NeoSilk.git)
 
 ---
-
-## 📃 License
-
-This project is open-source under the MIT License.  
-Please cite or credit appropriately if using any part of this work.
-
 
