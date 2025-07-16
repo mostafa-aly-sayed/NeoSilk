@@ -100,7 +100,8 @@ Developed by:
 
 ## 🔗 Project Links
 
-- 📊 **Kaggle Dataset (CAPTCHAs)**: [Link]
+- 📊 **Kaggle Dataset (CAPTCHAs)**: [[Link](https://kaggle.com/datasets/a41e9c53e1189b91c7afb507f2335b6c148d46822729fe8f0cebbde39070958e)]
+
 - 👨‍💻 **Full Repository**: [NeoSilk GitHub Repo](https://github.com/mostafa-aly-sayed/NeoSilk.git)
 ---
 
