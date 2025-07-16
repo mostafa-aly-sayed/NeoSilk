@@ -13,8 +13,6 @@ NeoSilk aims to provide a modular and intelligent framework for dark web threat 
 
 - Transform unstructured darknet content into actionable intelligence
 
-- Support early warning systems for emerging threats
-
 - This project bridges the gap between the dark web’s anonymity and the visibility needed for proactive cyber defense.
 
 
@@ -23,14 +21,36 @@ NeoSilk aims to provide a modular and intelligent framework for dark web threat 
 
 ---
 
-## 🚀 Project Overview
+## 🚀 What NeoSilk Does
 
-Traditional cybersecurity tools often fail to monitor the highly unstructured and hidden content of darknet marketplaces. NeoSilk addresses this gap by offering an **end-to-end pipeline** that enables:
+NeoSilk delivers a full-stack AI pipeline that enables:
 
-- Secure and intelligent scraping of dark web marketplaces
-- Classification of illicit product listings (Drugs, Digital, Tutorials)
-- Sentiment analysis of user reviews on products
-- Real-time data visualization for analysts and researchers
+🔍 **Secure Scraping of Darknet Marketplaces**
+Using Python scrapers over the Tor network, with support for manual CAPTCHA-solving. Scraped marketplaces include:
+
+- Hidden Market (no CAPTCHA)
+
+- MGM Grand (CAPTCHA-protected; dataset of 5K CAPTCHA images available)
+
+🧠 **NLP-Based Threat Classification**
+
+- Classifies products into high-risk domains: Drugs, Digital, Tutorials
+
+- Performs sentiment analysis on product reviews
+
+- Explores RAG-based QA for content understanding
+
+- Powered by models like BERT, DarkBERT, RoBERTa, and DistilGPT-2
+
+- Integrated with Explainable AI (XAI) using SHAP
+
+📊 **Visual Threat Intelligence Dashboards**
+
+- Interactive dashboards using Power BI 
+
+- Showcasing KPIs, product category trends, vendor performance, shipping locations, and conversion funnels
+
+- Tailored insights for cybersecurity professionals
 
 ---
 
