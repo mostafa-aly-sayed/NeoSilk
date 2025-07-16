@@ -100,9 +100,7 @@ Developed by:
 
 ## 🔗 Project Links
 
-- 🧠 **Full Project Report**: [Overleaf Link if available]
 - 📊 **Kaggle Dataset (CAPTCHAs)**: [Link]
 - 👨‍💻 **Full Repository**: [NeoSilk GitHub Repo](https://github.com/mostafa-aly-sayed/NeoSilk.git)
-
 ---
 
