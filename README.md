@@ -15,10 +15,6 @@ NeoSilk aims to provide a modular and intelligent framework for dark web threat 
 
 - This project bridges the gap between the dark web’s anonymity and the visibility needed for proactive cyber defense.
 
-
-
-
-
 ---
 
 ## 🚀 What NeoSilk Does
@@ -26,6 +22,7 @@ NeoSilk aims to provide a modular and intelligent framework for dark web threat 
 NeoSilk delivers a full-stack AI pipeline that enables:
 
 🔍 **Secure Scraping of Darknet Marketplaces**
+
 Using Python scrapers over the Tor network, with support for manual CAPTCHA-solving. Scraped marketplaces include:
 
 - Hidden Market (no CAPTCHA)
@@ -51,29 +48,6 @@ Using Python scrapers over the Tor network, with support for manual CAPTCHA-solv
 - Showcasing KPIs, product category trends, vendor performance, shipping locations, and conversion funnels
 
 - Tailored insights for cybersecurity professionals
-
----
-
-## 🔍 Features
-
-### 🧠 NLP Tasks
-- **Illicit Category Classification** (Drugs, Digital, Tutorials)
-  - Models: BERT, RoBERTa, DarkBERT
-- **Sentiment Analysis on User Reviews**
-  - Models: DistilBERT, DistilRoBERTa, DistilGPT-2
-- **RAG-based Question Answering** *(exploratory)*
-
-### 📊 Dashboards
-- Interactive dashboards (Power BI & Tableau) with:
-  - KPIs: Total products, views, purchases, average price, etc.
-  - Funnel analysis, shipping distributions, and top seller insights
-  - Category distribution, out-of-stock trends, and high-risk regions
-
-### 🕸️ Dark Web Scraping
-- Custom scrapers for `.onion` marketplaces
-  - **Hidden Market**: Fully scraped (no CAPTCHA)
-  - **MGM Grand**: CAPTCHA-handled with manual solving; dataset of 5K CAPTCHA images also provided
-- Tor network routing via `socks5h://127.0.0.1:9150`
 
 ---
 
