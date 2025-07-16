@@ -71,7 +71,7 @@ Using Python scrapers over the Tor network, with support for manual CAPTCHA-solv
 | Marketplace   | Description                     | Data Source | Notes                         |
 |---------------|----------------------------------|-------------|-------------------------------|
 | Hidden Market | No CAPTCHA, full scraping       | `.onion`    | Drugs, Digital, Tutorials     |
-| MGM Grand     | CAPTCHA-protected, solved manually | `.onion` | Clean 5.8K records after filtering |
+| MGM Grand     | CAPTCHA-protected, solved manually | `.onion` | Most are Drugs |
 
 
 A separate dataset of 5,000 Alphanumeric CAPTCHAs — collected directly during scraping from the MGM Grand darknet marketplace — is also [here](https://kaggle.com/datasets/a41e9c53e1189b91c7afb507f2335b6c148d46822729fe8f0cebbde39070958e) to support training of CAPTCHA-solving models.
